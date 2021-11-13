@@ -1,0 +1,14 @@
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\bin\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.exe
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\bin\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.deps.json
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\bin\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.runtimeconfig.json
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\bin\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.runtimeconfig.dev.json
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\bin\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.dll
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\bin\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.pdb
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\obj\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.csproj.AssemblyReference.cache
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\obj\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\obj\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.AssemblyInfoInputs.cache
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\obj\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.AssemblyInfo.cs
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\obj\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\obj\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.dll
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\obj\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.pdb
+C:\Users\Inspiron_5587G5\source\repos\Assignment_Ch6_Ch7\Assignment_Ch6_Ch7\obj\Debug\netcoreapp3.1\Assignment_Ch6_Ch7.genruntimeconfig.cache
