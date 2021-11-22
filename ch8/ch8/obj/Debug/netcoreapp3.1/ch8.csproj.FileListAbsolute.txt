@@ -1,0 +1,14 @@
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\bin\Debug\netcoreapp3.1\ch8.exe
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\bin\Debug\netcoreapp3.1\ch8.deps.json
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\bin\Debug\netcoreapp3.1\ch8.runtimeconfig.json
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\bin\Debug\netcoreapp3.1\ch8.runtimeconfig.dev.json
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\bin\Debug\netcoreapp3.1\ch8.dll
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\bin\Debug\netcoreapp3.1\ch8.pdb
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\obj\Debug\netcoreapp3.1\ch8.csproj.AssemblyReference.cache
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\obj\Debug\netcoreapp3.1\ch8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\obj\Debug\netcoreapp3.1\ch8.AssemblyInfoInputs.cache
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\obj\Debug\netcoreapp3.1\ch8.AssemblyInfo.cs
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\obj\Debug\netcoreapp3.1\ch8.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\obj\Debug\netcoreapp3.1\ch8.dll
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\obj\Debug\netcoreapp3.1\ch8.pdb
+C:\Users\Inspiron_5587G5\source\repos\ch8\ch8\obj\Debug\netcoreapp3.1\ch8.genruntimeconfig.cache
